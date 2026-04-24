@@ -1,3 +1,3 @@
 # subhan-demo
-this is my first Git Repositor
-Author-muhammad subhan gulshan<br>
+this is my first Git Repositor<br>
+Author-muhammad subhan gulshan
